@@ -1,0 +1,7 @@
+Piedra 200
+Aluminio 4
+Diamante 2
+Metal 146
+Oro 43
+Madera 150
+Plata 60

@@ -1,0 +1,6 @@
+Ayuntamiento 20 30 10 1 2
+Escuela 10 20 5 1 2
+Teatro 30 40 35 3 3
+Cantera 50 10 10 1 5
+Embajada 30 20 20 1 3
+Casa 10 10 10 5 10
